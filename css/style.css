@@ -641,14 +641,14 @@ FAQ
 }
 
 .faq .accordion .accordion-item-header:before {
-  content: url(./img/faq/arrow.svg);
+  content: url(../img/faq/arrow.svg);
   position: absolute;
   top: 0;
   right: 0;
 }
 
 .faq .accordion .accordion-item.show .accordion-item-header:before {
-  content: url(./img/faq/next.svg);
+  content: url(../img/faq/next.svg);
 }
 
 /*
@@ -712,7 +712,7 @@ FAQ
 }
 
 .main-subscribe input:before {
-  content: url(/img/faq/next.svg);
+  content: url(../img/faq/next.svg);
 }
 
 .main-subscribe button {
