@@ -425,7 +425,8 @@ ABOUT US
 }
 
 .main-news img {
-  width: 100%;
+  width: 370px;
+  height: 250px;
 }
 
 .main-news h3 {
@@ -640,14 +641,14 @@ FAQ
 }
 
 .faq .accordion .accordion-item-header:before {
-  content: url(/img/faq/arrow.svg);
+  content: url(./img/faq/arrow.svg);
   position: absolute;
   top: 0;
   right: 0;
 }
 
 .faq .accordion .accordion-item.show .accordion-item-header:before {
-  content: url(/img/faq/next.svg);
+  content: url(./img/faq/next.svg);
 }
 
 /*
